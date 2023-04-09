@@ -1,6 +1,0 @@
-!!If you are looking for a tutorial, look at the README.txt file first!!
-
-_____________________________________________________________
-
-PLEASE NOTICE THAT I HAVE NOT TESTED THE ADVANCED FUNCTIONS.
-_____________________________________________________________
