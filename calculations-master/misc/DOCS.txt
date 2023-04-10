@@ -1,0 +1,137 @@
+------------------------------------------------------
+
+Welcome to the calculations library dictionary / docs!
+
+------------------------------------------------------
+
+PART 1: Basic functions
+    
+    {INTEGERS}
+        add2() = adds two integers together
+            HOW TO USE:
+                type this iBasic::add2(). You need to put 2 integers
+                inside of the parentheses.
+
+        add3() = adds 3 integers together
+            HOW TO USE:
+                type this iBasic::add3(). You need to put 3 integers
+                inside of the parentheses.
+
+        sub2() = subtracts one integer from another
+            HOW TO USE:
+                type this iBasic::sub2(). You need to put 2 integers
+                inside of the parentheses.
+
+        sub3() = subtracts 3 integers. (a - b - c)
+            HOW TO USE:
+                type this iBasic::sub3(). You need to put 3 integers
+                inside of the parentheses.
+
+        div2() = divides 2 integers
+            HOW TO USE:
+                type this iBasic::div2(). You need to put 2 integers
+                inside of the parentheses.
+
+        div3() = divides 3 integers. (a / b / c)
+            HOW TO USE:
+                type this iBasic::div3(). You need to put 3 integers
+                inside of the parentheses.
+
+        mult2() = multiplies 2 integers
+            HOW TO USE:
+                type this iBasic::mult2(). You need to put 2 integers
+                inside of the parentheses.
+
+        mult3() = multiplies 3 integers. (a * b * c)
+            HOW TO USE:
+                type this iBasic::mult3(). You need to put 3 integers
+                inside of the parentheses.
+
+
+
+    {FLOATS}
+        add2() = adds two floats together
+            HOW TO USE:
+                type this fBasic::add2(). You need to put 2 floats
+                inside of the parentheses.
+
+        add3() = adds 3 floats together
+            HOW TO USE:
+                type this fBasic::add3(). You need to put 3 floats
+                inside of the parentheses.
+
+        sub2() = subtracts one float from another
+            HOW TO USE:
+                type this fBasic::sub2(). You need to put 2 floats
+                inside of the parentheses.
+
+        sub3() = subtracts 3 floats. (a - b - c)
+            HOW TO USE:
+                type this fBasic::sub3(). You need to put 3 floats
+                inside of the parentheses.
+
+        div2() = divides 2 floats
+            HOW TO USE:
+                type this fBasic::div2(). You need to put 2 floats
+                inside of the parentheses.
+
+        div3() = divides 3 floats. (a / b / c)
+            HOW TO USE:
+                type this fBasic::div3(). You need to put 3 floats
+                inside of the parentheses.
+
+        mult2() = multiplies 2 floats
+            HOW TO USE:
+                type this fBasic::mult2(). You need to put 2 floats
+                inside of the parentheses.
+
+        mult3() = multiplies 3 floats. (a * b * c)
+            HOW TO USE:
+                type this fBasic::mult3(). You need to put 3 floats
+                inside of the parentheses.
+
+
+
+
+PART 2: Advanced functions
+
+    {EQUATIONS}
+        all of the equaions speak for themselfes. If you want info on them, I might add info on them later. To use the advanced functions, you simple call each one by typing this: 
+        advncd::function name();
+        ECXEPT for the percentage function:
+        advncd::percent(); You need to put 2 integers inside the parentheses. The first number is the number out of the max, the second is the maximun ammount.
+
+    {CONVERSIONS}
+        intToStr(); You need to put a integer inside of the parentheses. It will output the string of that integer.
+        Experimental! If you want to use the variable that it creates, use the [ extern std::string istr ] command.
+
+        strToInt(); You need to put a string inside of the parentheses. It will output the int of that string.
+        Experimental! If you want to use the variable that it creates, use the [ extern int numStr ] command.
+
+        strToDbl(); You need to put a string inside of the parentheses. It will output the double of that string.
+        Experimental! If you want to use the variable that it creates, use the [ extern double numDouble ] command.
+
+        dblToStr(); You need to put a double inside of the parentheses. It will output the string of that double.
+        Experimental! If you want to use the variable that it creates, use the [ extern std::string strTd ] command.
+
+        chrToInt(); You need to put a char inside of the parentheses. It will output the int of that char.
+        Experimental! If you want to use the variable that it creates, use the [ extern int my_int ] command.
+
+        intToChr(); You need to put a integer inside of the parentheses. It will output the char of that integer.
+        Experimental! If you want to use the variable that it creates, use the [ extern char my_char ] command.
+
+
+
+PART 3: Other / Miscellaneous
+
+    {Q/A}
+        Q: "I have an error. How do I fix it?"
+        A: "Go to the misc folder, open the ERRORS.txt file. If you still can't fix your error, report it to github."
+
+        Q: "This thing is not working! (or) There is a bug in the code! You suck at coding!"
+        A: "I have not tested all of the functions yet. If some do not work, report it and I will fix it. (maybe)"
+
+        Q: "Are you ever going to update this?"
+        A: "If I can find things to add, I will definetly update this and add more functions and features."
+
+"Good Luck and Have Fun!" - Plinkon

@@ -1,0 +1,3 @@
+Advanced = more advanced calculations and conversions
+
+Basic = basic calculations

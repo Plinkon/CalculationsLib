@@ -1,0 +1,29 @@
+------------------------------------------------
+
+Welcome to the Errors file!
+This file will have error fixes for most errors.
+
+me rn: (－_－) zzZ
+
+------------------------------------------------
+
+{includes.h ERROR/S}
+    1: if it says that the file can not be found, check in that directory for the file.
+    If the file is there, then double and triple check that the included directory is the same.
+    If this does not work, then I can't help you. Sorry.
+
+{CAN NOT USE LIBRARY ERROR/S}
+    1: if you can not use the library, check that your main.cpp or lib.cpp file is including the includes.h file.
+    If this dosen't work, then make sure that all of the files in the calc folder are there.
+    Make sure your calc folder look like this:
+
+    calc:
+        -advanced.cpp
+        -basic_functions.cpp
+        -NOTICE.txt
+
+        -convert
+            --converts.cpp
+
+{ANY OTHER ERROR/S?}
+    If ou find a bug or error, please report it and I might fix it.
