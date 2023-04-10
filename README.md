@@ -1,4 +1,4 @@
-# CalculationsLib
+# CalculationsLibrary
 ## *DESCRIPTION*
 This is a ***solo*** C++ library for doing *simple* and *complex* math problems. Not only can this library do calculations super easily, it can also *convert* variables!
 ## *HOW-TO USE*
